@@ -1,0 +1,2 @@
+# GolangAdmistratorServerDemo
+go语言和beego开发的一个RESTful API接口，一个学习demo
